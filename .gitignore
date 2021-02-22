@@ -1,1 +1,11 @@
 **/.DS_Store
+
+/env
+/layers
+/data
+
+/data/Residential_Sales_Data.csv
+/data/Cook_County_Assessor_s_Residential_Sales_Data.csv
+/data/Residential_Property_Characteristics.csv
+/data/Treasurer_-_Annual_Tax_Sale.csv
+/data/Treasurer_-_Scavenger_Tax_Sale.csv
